@@ -11,15 +11,15 @@ Our Priority Order Update System addresses these challenges by providing a user-
 
 ### Key Features:
 #### Intuitive Priority Order Update: 
-       Restaurant staff can effortlessly mark orders as priority with a single button click, ensuring that high-priority orders are fulfilled promptly.
+Restaurant staff can effortlessly mark orders as priority with a single button click, ensuring that high-priority orders are fulfilled promptly.
 #### Real-time API Integration:
-       Our system leverages the updateOrder API to update orders in real-time, ensuring that all stakeholders are informed and aligned.
+Our system leverages the updateOrder API to update orders in real-time, ensuring that all stakeholders are informed and aligned.
 #### React Router Dom:
-       We've utilized React Router Dom to handle form submissions and API calls, providing a robust and efficient way to manage client-side routing.
+We've utilized React Router Dom to handle form submissions and API calls, providing a robust and efficient way to manage client-side routing.
 #### Hooks-based Architecture:
-       Our codebase is built with hooks, ensuring a modular, maintainable, and scalable architecture that's easy to extend and modify.
+Our codebase is built with hooks, ensuring a modular, maintainable, and scalable architecture that's easy to extend and modify.
 #### Modular Code Structure: 
-       Our code is organized into logical components, making it easy to understand, modify, and reuse.
+Our code is organized into logical components, making it easy to understand, modify, and reuse.
 
 ### Technical Details:
 Front-end: Built with React Router Dom, our system utilizes the useFetcher hook to handle form submissions and API calls.
