@@ -10,11 +10,16 @@ Restaurant staff often face challenges in managing orders, particularly during p
 Our Priority Order Update System addresses these challenges by providing a user-friendly interface for restaurant staff to update order priorities with ease. The system consists of a simple form that allows staff to mark orders as priority with a single button click. The updated order priority is then reflected in real-time, ensuring that all stakeholders are informed and aligned.
 
 ### Key Features:
-#### Intuitive Priority Order Update: Restaurant staff can effortlessly mark orders as priority with a single button click, ensuring that high-priority orders are fulfilled promptly.
-#### Real-time API Integration: Our system leverages the updateOrder API to update orders in real-time, ensuring that all stakeholders are informed and aligned.
-#### React Router Dom: We've utilized React Router Dom to handle form submissions and API calls, providing a robust and efficient way to manage client-side routing.
-#### Hooks-based Architecture: Our codebase is built with hooks, ensuring a modular, maintainable, and scalable architecture that's easy to extend and modify.
-#### Modular Code Structure: Our code is organized into logical components, making it easy to understand, modify, and reuse.
+#### Intuitive Priority Order Update: 
+       Restaurant staff can effortlessly mark orders as priority with a single button click, ensuring that high-priority orders are fulfilled promptly.
+#### Real-time API Integration:
+       Our system leverages the updateOrder API to update orders in real-time, ensuring that all stakeholders are informed and aligned.
+#### React Router Dom:
+       We've utilized React Router Dom to handle form submissions and API calls, providing a robust and efficient way to manage client-side routing.
+#### Hooks-based Architecture:
+       Our codebase is built with hooks, ensuring a modular, maintainable, and scalable architecture that's easy to extend and modify.
+#### Modular Code Structure: 
+       Our code is organized into logical components, making it easy to understand, modify, and reuse.
 
 ### Technical Details:
 Front-end: Built with React Router Dom, our system utilizes the useFetcher hook to handle form submissions and API calls.
